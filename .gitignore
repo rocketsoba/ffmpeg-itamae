@@ -1,9 +1,8 @@
 Gemfile.lock
 .bundle
 json_gen.rb
-reboottest.rb
-templates/
+reboottest.rbt
+pemplates/
 vendor/bundle
-config.json
 hashed_pass
 templates/hosts
