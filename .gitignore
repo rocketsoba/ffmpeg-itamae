@@ -1,0 +1,9 @@
+Gemfile.lock
+.bundle
+json_gen.rb
+reboottest.rb
+templates/
+vendor/bundle
+config.json
+hashed_pass
+templates/hosts
